@@ -1,0 +1,19 @@
+id: I3C3ABC76
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:20.529575
+last_modified: 2023-01-04 11:27:20.529590
+source_metadata:
+  collections:
+  - Adeu Rinpoche Series
+  - Works of Tibetan Masters
+bases:
+  BDFC:
+    title: 'The Falling Rain of Blessings: A Brief Daily Practice of the Wealth Deity
+      White Jambhala'
+    base_file: BDFC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
